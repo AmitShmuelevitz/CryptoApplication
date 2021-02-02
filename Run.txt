@@ -1,0 +1,2 @@
+java -cp Crypto.jar Encryption plaintext.txt Amit.jks 123456 amit ron
+java -cp Crypto.jar Decryption encryptedText.txt configuration.txt Ron.jks 123456 ron amit
